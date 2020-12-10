@@ -1,6 +1,6 @@
 # ################################################################################
 # Author: Samuel Zamvil, Senior Systems Engineer
-# Project: MDT - PS Domain Join
+# Project: MDT PSJoinDomain
 # Description: Used to replace the builtin domain join VB script
 # Use cases:
 # Do task sequence filtering based on created DomainJoinFailure TS Variable
